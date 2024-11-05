@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My very first trapping",
+      "body": "Why are blogs used so much?",
+      "author": "billy",
+      "id": "1"
+    },
+    {
+      "title": "Black and blue or white and gold?",
+      "body": "what color do you think the dress really is?\nPersonally I think it's white and gold but what are your thoughts?",
+      "author": "CheeseLover3000",
+      "id": "2"
+    },
+    {
+      "id": "6f87",
+      "title": "Where did they all go",
+      "body": "I once was a young lad in the rivers of styx",
+      "author": "mario"
+    },
+    {
+      "id": "484f",
+      "title": "Start typing!",
+      "body": "type your thoughts away!",
+      "author": "luigi"
+    }
+  ]
+}
